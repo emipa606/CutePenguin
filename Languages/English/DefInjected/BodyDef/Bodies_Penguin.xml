@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Penguin.label>Penguin</Penguin.label>
+  <Penguin.corePart.parts.7.customLabel>left lung</Penguin.corePart.parts.7.customLabel>
+  <Penguin.corePart.parts.8.customLabel>right lung</Penguin.corePart.parts.8.customLabel>
+  <Penguin.corePart.parts.9.customLabel>left kidney</Penguin.corePart.parts.9.customLabel>
+  <Penguin.corePart.parts.10.customLabel>right kidney</Penguin.corePart.parts.10.customLabel>
+  <Penguin.corePart.parts.12.parts.0.parts.1.customLabel>left eye</Penguin.corePart.parts.12.parts.0.parts.1.customLabel>
+  <Penguin.corePart.parts.12.parts.0.parts.2.customLabel>right eye</Penguin.corePart.parts.12.parts.0.parts.2.customLabel>
+  <Penguin.corePart.parts.12.parts.0.parts.3.customLabel>left ear</Penguin.corePart.parts.12.parts.0.parts.3.customLabel>
+  <Penguin.corePart.parts.12.parts.0.parts.4.customLabel>right ear</Penguin.corePart.parts.12.parts.0.parts.4.customLabel>
+  <Penguin.corePart.parts.13.customLabel>left shoulder</Penguin.corePart.parts.13.customLabel>
+  <Penguin.corePart.parts.13.parts.0.customLabel>left clavicle</Penguin.corePart.parts.13.parts.0.customLabel>
+  <Penguin.corePart.parts.13.parts.1.customLabel>left arm</Penguin.corePart.parts.13.parts.1.customLabel>
+  <Penguin.corePart.parts.13.parts.1.parts.0.customLabel>left humerus</Penguin.corePart.parts.13.parts.1.parts.0.customLabel>
+  <Penguin.corePart.parts.13.parts.1.parts.1.customLabel>left radius</Penguin.corePart.parts.13.parts.1.parts.1.customLabel>
+  <Penguin.corePart.parts.13.parts.1.parts.2.customLabel>left hand</Penguin.corePart.parts.13.parts.1.parts.2.customLabel>
+  <Penguin.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>left hand pinky</Penguin.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>
+  <Penguin.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>left hand ring finger</Penguin.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>
+  <Penguin.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>left hand middle finger</Penguin.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>
+  <Penguin.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>left hand index finger</Penguin.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>
+  <Penguin.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>left hand thumb</Penguin.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>
+  <Penguin.corePart.parts.14.customLabel>right shoulder</Penguin.corePart.parts.14.customLabel>
+  <Penguin.corePart.parts.14.parts.0.customLabel>right clavicle</Penguin.corePart.parts.14.parts.0.customLabel>
+  <Penguin.corePart.parts.14.parts.1.customLabel>right arm</Penguin.corePart.parts.14.parts.1.customLabel>
+  <Penguin.corePart.parts.14.parts.1.parts.0.customLabel>right humerus</Penguin.corePart.parts.14.parts.1.parts.0.customLabel>
+  <Penguin.corePart.parts.14.parts.1.parts.1.customLabel>right radius</Penguin.corePart.parts.14.parts.1.parts.1.customLabel>
+  <Penguin.corePart.parts.14.parts.1.parts.2.customLabel>right hand</Penguin.corePart.parts.14.parts.1.parts.2.customLabel>
+  <Penguin.corePart.parts.14.parts.1.parts.2.parts.0.customLabel>right hand pinky</Penguin.corePart.parts.14.parts.1.parts.2.parts.0.customLabel>
+  <Penguin.corePart.parts.14.parts.1.parts.2.parts.1.customLabel>right hand ring finger</Penguin.corePart.parts.14.parts.1.parts.2.parts.1.customLabel>
+  <Penguin.corePart.parts.14.parts.1.parts.2.parts.2.customLabel>right hand middle finger</Penguin.corePart.parts.14.parts.1.parts.2.parts.2.customLabel>
+  <Penguin.corePart.parts.14.parts.1.parts.2.parts.3.customLabel>right hand index finger</Penguin.corePart.parts.14.parts.1.parts.2.parts.3.customLabel>
+  <Penguin.corePart.parts.14.parts.1.parts.2.parts.4.customLabel>right hand thumb</Penguin.corePart.parts.14.parts.1.parts.2.parts.4.customLabel>
+  <Penguin.corePart.parts.16.customLabel>left leg</Penguin.corePart.parts.16.customLabel>
+  <Penguin.corePart.parts.16.parts.0.customLabel>left femur</Penguin.corePart.parts.16.parts.0.customLabel>
+  <Penguin.corePart.parts.16.parts.1.customLabel>left tibia</Penguin.corePart.parts.16.parts.1.customLabel>
+  <Penguin.corePart.parts.16.parts.2.customLabel>left foot</Penguin.corePart.parts.16.parts.2.customLabel>
+  <Penguin.corePart.parts.16.parts.2.parts.0.customLabel>left foot little toe</Penguin.corePart.parts.16.parts.2.parts.0.customLabel>
+  <Penguin.corePart.parts.16.parts.2.parts.1.customLabel>left foot fourth toe</Penguin.corePart.parts.16.parts.2.parts.1.customLabel>
+  <Penguin.corePart.parts.16.parts.2.parts.2.customLabel>left foot middle toe</Penguin.corePart.parts.16.parts.2.parts.2.customLabel>
+  <Penguin.corePart.parts.16.parts.2.parts.3.customLabel>left foot second toe</Penguin.corePart.parts.16.parts.2.parts.3.customLabel>
+  <Penguin.corePart.parts.16.parts.2.parts.4.customLabel>left foot big toe</Penguin.corePart.parts.16.parts.2.parts.4.customLabel>
+  <Penguin.corePart.parts.17.customLabel>right leg</Penguin.corePart.parts.17.customLabel>
+  <Penguin.corePart.parts.17.parts.0.customLabel>right femur</Penguin.corePart.parts.17.parts.0.customLabel>
+  <Penguin.corePart.parts.17.parts.1.customLabel>right tibia</Penguin.corePart.parts.17.parts.1.customLabel>
+  <Penguin.corePart.parts.17.parts.2.customLabel>right foot</Penguin.corePart.parts.17.parts.2.customLabel>
+  <Penguin.corePart.parts.17.parts.2.parts.0.customLabel>right foot little toe</Penguin.corePart.parts.17.parts.2.parts.0.customLabel>
+  <Penguin.corePart.parts.17.parts.2.parts.1.customLabel>right foot fourth toe</Penguin.corePart.parts.17.parts.2.parts.1.customLabel>
+  <Penguin.corePart.parts.17.parts.2.parts.2.customLabel>right foot middle toe</Penguin.corePart.parts.17.parts.2.parts.2.customLabel>
+  <Penguin.corePart.parts.17.parts.2.parts.3.customLabel>right foot second toe</Penguin.corePart.parts.17.parts.2.parts.3.customLabel>
+  <Penguin.corePart.parts.17.parts.2.parts.4.customLabel>right foot big toe</Penguin.corePart.parts.17.parts.2.parts.4.customLabel>
+
+
+</LanguageData>
