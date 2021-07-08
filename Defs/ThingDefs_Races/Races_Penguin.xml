@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef ParentName="AnimalThingBase">
-    <defName>Penguin</defName>
+    <defName>CutePenguin</defName>
     <label>Cute Penguin</label>
     <description>Penguin is one of cutest animal in the rimworld! It is modified by Mehni and tobe. So If you tame and train it, It can cleans your base and hauls your items. Don't kill them plz. And be careful! Penguin can't stay in warm place.</description>
     <statBases>
@@ -157,12 +157,12 @@
     </recipes>
   </ThingDef>
   <PawnKindDef ParentName="AnimalKindBase">
-    <defName>Penguin</defName>
+    <defName>CutePenguin</defName>
     <label>Penguin</label>
     <labelPlural>Penguins</labelPlural>
     <combatPower>150</combatPower>
     <canArriveManhunter>false</canArriveManhunter>
-    <race>Penguin</race>
+    <race>CutePenguin</race>
     <lifeStages>
       <li>
         <label>Penguin baby</label>
