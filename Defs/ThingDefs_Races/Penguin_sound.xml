@@ -7,8 +7,8 @@
     <subSounds>
       <li>
         <grains>
-          <li Class="AudioGrain_Folder">
-            <clipFolderPath>penguin_call</clipFolderPath>
+          <li Class="AudioGrain_Clip">
+            <clipPath>penguin_call</clipPath>
           </li>
         </grains>
         <volumeRange>
@@ -34,8 +34,8 @@
     <subSounds>
       <li>
         <grains>
-          <li Class="AudioGrain_Folder">
-            <clipFolderPath>Penguin_wound</clipFolderPath>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Penguin_wound</clipPath>
           </li>
         </grains>
         <volumeRange>
@@ -61,8 +61,8 @@
     <subSounds>
       <li>
         <grains>
-          <li Class="AudioGrain_Folder">
-            <clipFolderPath>Penguin_kill</clipFolderPath>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Penguin_kill</clipPath>
           </li>
         </grains>
         <volumeRange>
