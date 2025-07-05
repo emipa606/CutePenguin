@@ -2,5 +2,16 @@
   "Continued": true,
   "CanAdd": "0",
   "CanRemove": "2",
-  "PreviewVersion": "1.5"
+  "PreviewVersion": "1.6",
+  "LastXmlCleaning": "2025-07-05T22:51:23.7480338+02:00",
+  "SocialImageSet": true,
+  "Patches": false,
+  "Defs": true,
+  "Assemblies": true,
+  "LinesOfCode": 1618.0,
+  "LinesOfXML": 43623.0,
+  "SearchTags": [
+    " animal",
+    " hauling"
+  ]
 }

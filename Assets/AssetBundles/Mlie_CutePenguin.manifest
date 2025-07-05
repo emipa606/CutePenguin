@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 2374635602
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f2ae13907447725325690afe3cb3153c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ce3b6d18a872ca8039cd5eb3c4fb7ef5
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: f2ae13907447725325690afe3cb3153c
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Data/Mlie.CutePenguin/Textures/Things/Animal/MPenguin/Penguin_south.png
+- Assets/Data/Mlie.CutePenguin/Textures/Things/Animal/MPenguin/Penguin.png
+- Assets/Data/Mlie.CutePenguin/Sounds/Penguin_wound.wav
+- Assets/Data/Mlie.CutePenguin/Textures/Things/Animal/MPenguin/Penguin_north.png
+- Assets/Data/Mlie.CutePenguin/Textures/Things/Animal/FPenguin/Penguin_south.png
+- Assets/Data/Mlie.CutePenguin/Sounds/Penguin_kill.wav
+- Assets/Data/Mlie.CutePenguin/Textures/Things/Animal/MPenguin/Penguin_east.png
+- Assets/Data/Mlie.CutePenguin/Textures/Things/Animal/FPenguin/Penguin_east.png
+- Assets/Data/Mlie.CutePenguin/Sounds/penguin_call.wav
+- Assets/Data/Mlie.CutePenguin/Textures/Things/Animal/FPenguin/Penguin_north.png
+- Assets/Data/Mlie.CutePenguin/Textures/Things/Animal/FPenguin/Penguin.png
+Dependencies: []

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Penguin -->
+  <CutePenguin.label>Penguin</CutePenguin.label>
+  <!-- EN: Penguins -->
+  <CutePenguin.labelPlural>Penguins</CutePenguin.labelPlural>
+  <!-- EN: Penguin baby -->
+  <CutePenguin.lifeStages.Penguin_baby.label>Penguin baby</CutePenguin.lifeStages.Penguin_baby.label>
+  <!-- EN: Penguin babies -->
+  <CutePenguin.lifeStages.Penguin_baby.labelPlural>Penguin babies</CutePenguin.lifeStages.Penguin_baby.labelPlural>
+</LanguageData>

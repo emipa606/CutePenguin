@@ -2,7 +2,7 @@
 <ModSyncNinjaData>
   <ID>c992be8c-e7b8-41aa-8fba-819288002645</ID>
   <ModName>CutePenguin (Continued)</ModName>
-  <Version>1.5.0</Version>
+  <Version>1.6.0</Version>
   <SaveBreaking>False</SaveBreaking>
   <Host name="Github">
     <Owner>emipa606</Owner>
@@ -12,3 +12,4 @@
     <Branch>master</Branch>
   </Host>
 </ModSyncNinjaData>
+

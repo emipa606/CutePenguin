@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Cute Penguin -->
+  <CutePenguin.label>Cute Penguin</CutePenguin.label>
+  <!-- EN: Penguin is one of cutest animal in the rimworld! It is modified by Mehni and tobe. So If you tame and train it, It can cleans your base and hauls your items. Don't kill them plz. And be careful! Penguin can't stay in warm place. -->
+  <CutePenguin.description>Penguin is one of cutest animal in the rimworld! It is modified by Mehni and tobe. So If you tame and train it, It can cleans your base and hauls your items. Don't kill them plz. And be careful! Penguin can't stay in warm place.</CutePenguin.description>
+  <!-- EN: penguin meat -->
+  <CutePenguin.race.meatLabel>penguin meat</CutePenguin.race.meatLabel>
+  <!-- EN: cute penguin egg (fert.) -->
+  <EggCutePenguinFertilized.label>cute penguin egg (fert.)</EggCutePenguinFertilized.label>
+  <!-- EN: A fertilized cute penguin egg. If all goes well, it should hatch into a baby cute penguin. It can be eaten raw, but it's much better cooked. -->
+  <EggCutePenguinFertilized.description>A fertilized cute penguin egg. If all goes well, it should hatch into a baby cute penguin. It can be eaten raw, but it's much better cooked.</EggCutePenguinFertilized.description>
+  <!-- EN: cute penguin egg (unfert.) -->
+  <EggCutePenguinUnFertilized.label>cute penguin egg (unfert.)</EggCutePenguinUnFertilized.label>
+  <!-- EN: An unfertilized cute penguin egg. It can be eaten raw, but it's much better cooked. -->
+  <EggCutePenguinUnFertilized.description>An unfertilized cute penguin egg. It can be eaten raw, but it's much better cooked.</EggCutePenguinUnFertilized.description>
+</LanguageData>
